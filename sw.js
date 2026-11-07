@@ -1,4 +1,4 @@
-const CACHE = 'racha-v1';
+const CACHE = 'racha-v2';
 const FILES = ['./', './index.html'];
 
 self.addEventListener('install', e => {
